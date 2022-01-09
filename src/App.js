@@ -17,7 +17,7 @@ import AuthProvider from './components/Hooks/AuthProvider';
 import PrivateRoute from './components/Pages/PrivateRoute/PrivateRoute';
 import Appointment from './components/Pages/Appointment/Appointment';
 
-
+// 
 
 function App() {
   return (
